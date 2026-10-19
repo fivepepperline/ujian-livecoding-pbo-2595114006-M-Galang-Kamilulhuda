@@ -3,6 +3,9 @@ Nama: Muhammad Galang Kamilulhuda
 NIM: 2595114006
 Prodi: Teknik Informatika
 
+# Video proses dan demo program 
+https://youtu.be/VtAHgzcevjI?si=DC8jXAjVzZ8nVo2c
+
 # Kasus Pilihan 
 ## Kasus 2 - Sistem tarif ekspedisi logistik 
 Membuat program yang dapat menghitung hasil akhir seubah paket yang akan diantar oleh layanan ekspedisi,baik secara reguler maupun express, dengan  ketentuan:
